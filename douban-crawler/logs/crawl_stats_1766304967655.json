@@ -1,0 +1,39 @@
+{
+  "crawlTime": "2025-12-21T08:16:07.654Z",
+  "duration": "136.2秒",
+  "totalBooks": 30,
+  "visitedUrls": 30,
+  "failedUrls": 0,
+  "popularTags": [
+    {
+      "tag": "未分类",
+      "count": 27
+    },
+    {
+      "tag": "编程",
+      "count": 2
+    },
+    {
+      "tag": "数学",
+      "count": 1
+    },
+    {
+      "tag": "统计学",
+      "count": 1
+    },
+    {
+      "tag": "计算机",
+      "count": 1
+    },
+    {
+      "tag": "编程语言",
+      "count": 1
+    }
+  ],
+  "ratingStats": {
+    "average": 9.03,
+    "count": 30,
+    "min": 8.1,
+    "max": 9.5
+  }
+}

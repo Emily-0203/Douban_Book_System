@@ -1,0 +1,42 @@
+{
+  "crawlTime": "2025-12-27T10:33:59.539Z",
+  "duration": "0.6秒",
+  "totalBooks": 0,
+  "visitedUrls": 0,
+  "failedUrls": 0,
+  "popularTags": [],
+  "ratingStats": {
+    "average": 0,
+    "count": 0
+  },
+  "metrics": {
+    "requests": {
+      "total": 0,
+      "success": 0,
+      "failed": 0,
+      "rateLimited": 0
+    },
+    "books": {
+      "crawled": 0,
+      "failed": 0,
+      "total": 0
+    },
+    "timing": {
+      "averageResponseTime": 0,
+      "totalDuration": 626
+    },
+    "resources": {
+      "memoryUsage": {
+        "rss": 312029184,
+        "heapTotal": 253603840,
+        "heapUsed": 117020464,
+        "external": 9628192,
+        "arrayBuffers": 5348561
+      },
+      "cpuUsage": {
+        "user": 1500000,
+        "system": 500000
+      }
+    }
+  }
+}

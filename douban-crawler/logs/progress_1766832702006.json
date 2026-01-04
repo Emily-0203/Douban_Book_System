@@ -1,0 +1,94 @@
+{
+  "timestamp": "2025-12-27T10:51:42.006Z",
+  "visitedUrls": [],
+  "failedUrls": [
+    [
+      "https://book.douban.com/subject/37169149/",
+      {
+        "count": 1,
+        "lastError": "页面访问被限制，可能触发了反爬虫",
+        "lastAttempt": "2025-12-27T10:51:10.937Z"
+      }
+    ],
+    [
+      "https://book.douban.com/subject/26877943/",
+      {
+        "count": 1,
+        "lastError": "页面访问被限制，可能触发了反爬虫",
+        "lastAttempt": "2025-12-27T10:51:17.492Z"
+      }
+    ],
+    [
+      "https://book.douban.com/subject/21692860/",
+      {
+        "count": 1,
+        "lastError": "页面访问被限制，可能触发了反爬虫",
+        "lastAttempt": "2025-12-27T10:51:21.595Z"
+      }
+    ],
+    [
+      "https://book.douban.com/subject/35069479/",
+      {
+        "count": 1,
+        "lastError": "页面访问被限制，可能触发了反爬虫",
+        "lastAttempt": "2025-12-27T10:51:25.793Z"
+      }
+    ],
+    [
+      "https://book.douban.com/subject/3608208/",
+      {
+        "count": 1,
+        "lastError": "页面访问被限制，可能触发了反爬虫",
+        "lastAttempt": "2025-12-27T10:51:30.791Z"
+      }
+    ],
+    [
+      "https://book.douban.com/subject/25862274/",
+      {
+        "count": 1,
+        "lastError": "页面访问被限制，可能触发了反爬虫",
+        "lastAttempt": "2025-12-27T10:51:36.760Z"
+      }
+    ],
+    [
+      "https://book.douban.com/subject/37354659/",
+      {
+        "count": 1,
+        "lastError": "页面访问被限制，可能触发了反爬虫",
+        "lastAttempt": "2025-12-27T10:51:41.002Z"
+      }
+    ]
+  ],
+  "totalBooksCrawled": 0,
+  "duration": 38258,
+  "metrics": {
+    "requests": {
+      "total": 7,
+      "success": 0,
+      "failed": 7,
+      "rateLimited": 0
+    },
+    "books": {
+      "crawled": 0,
+      "failed": 7,
+      "total": 0
+    },
+    "timing": {
+      "averageResponseTime": 1081.2857142857142,
+      "totalDuration": 38309
+    },
+    "resources": {
+      "memoryUsage": {
+        "rss": 189599744,
+        "heapTotal": 119201792,
+        "heapUsed": 115420224,
+        "external": 10343692,
+        "arrayBuffers": 6067952
+      },
+      "cpuUsage": {
+        "user": 1875000,
+        "system": 453000
+      }
+    }
+  }
+}

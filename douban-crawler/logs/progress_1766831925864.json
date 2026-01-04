@@ -1,0 +1,46 @@
+{
+  "timestamp": "2025-12-27T10:38:45.864Z",
+  "visitedUrls": [],
+  "failedUrls": [
+    [
+      "https://book.douban.com/subject/37169149/",
+      {
+        "count": 1,
+        "lastError": "页面访问被限制，可能触发了反爬虫",
+        "lastAttempt": "2025-12-27T10:38:35.193Z"
+      }
+    ]
+  ],
+  "totalBooksCrawled": 0,
+  "duration": 136208,
+  "metrics": {
+    "requests": {
+      "total": 2,
+      "success": 0,
+      "failed": 1,
+      "rateLimited": 0
+    },
+    "books": {
+      "crawled": 0,
+      "failed": 1,
+      "total": 0
+    },
+    "timing": {
+      "averageResponseTime": 122836,
+      "totalDuration": 136263
+    },
+    "resources": {
+      "memoryUsage": {
+        "rss": 188719104,
+        "heapTotal": 117944320,
+        "heapUsed": 114536880,
+        "external": 9786492,
+        "arrayBuffers": 5510752
+      },
+      "cpuUsage": {
+        "user": 1875000,
+        "system": 468000
+      }
+    }
+  }
+}

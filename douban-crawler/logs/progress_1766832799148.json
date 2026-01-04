@@ -1,0 +1,54 @@
+{
+  "timestamp": "2025-12-27T10:53:19.147Z",
+  "visitedUrls": [],
+  "failedUrls": [
+    [
+      "https://book.douban.com/subject/25703412/",
+      {
+        "count": 1,
+        "lastError": "页面访问被限制，可能触发了反爬虫",
+        "lastAttempt": "2025-12-27T10:53:12.124Z"
+      }
+    ],
+    [
+      "https://book.douban.com/subject/6529833/",
+      {
+        "count": 1,
+        "lastError": "页面访问被限制，可能触发了反爬虫",
+        "lastAttempt": "2025-12-27T10:53:16.444Z"
+      }
+    ]
+  ],
+  "totalBooksCrawled": 0,
+  "duration": 13374,
+  "metrics": {
+    "requests": {
+      "total": 2,
+      "success": 0,
+      "failed": 2,
+      "rateLimited": 0
+    },
+    "books": {
+      "crawled": 0,
+      "failed": 2,
+      "total": 0
+    },
+    "timing": {
+      "averageResponseTime": 1148,
+      "totalDuration": 13424
+    },
+    "resources": {
+      "memoryUsage": {
+        "rss": 187158528,
+        "heapTotal": 117739520,
+        "heapUsed": 113848560,
+        "external": 9688324,
+        "arrayBuffers": 5412584
+      },
+      "cpuUsage": {
+        "user": 1875000,
+        "system": 406000
+      }
+    }
+  }
+}

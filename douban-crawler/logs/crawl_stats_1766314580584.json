@@ -1,0 +1,19 @@
+{
+  "crawlTime": "2025-12-21T10:56:20.583Z",
+  "duration": "147.9秒",
+  "totalBooks": 30,
+  "visitedUrls": 30,
+  "failedUrls": 0,
+  "popularTags": [
+    {
+      "tag": "未分类",
+      "count": 30
+    }
+  ],
+  "ratingStats": {
+    "average": 8.46,
+    "count": 27,
+    "min": 6.4,
+    "max": 9.6
+  }
+}

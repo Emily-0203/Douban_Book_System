@@ -1,0 +1,57 @@
+{
+  "crawlTime": "2025-12-31T03:11:22.256Z",
+  "duration": "66.6秒",
+  "totalBooks": 10,
+  "visitedUrls": 10,
+  "failedUrls": 0,
+  "popularTags": [
+    {
+      "tag": "未分类",
+      "count": 10
+    }
+  ],
+  "ratingStats": {
+    "average": 8.79,
+    "count": 7,
+    "min": 7.4,
+    "max": 9.7,
+    "distribution": {
+      "9-10": 4,
+      "8-9": 2,
+      "7-8": 1,
+      "6-7": 0,
+      "5-6": 0,
+      "0-5": 0
+    }
+  },
+  "metrics": {
+    "requests": {
+      "total": 10,
+      "success": 10,
+      "failed": 0,
+      "rateLimited": 0
+    },
+    "books": {
+      "crawled": 20,
+      "failed": 0,
+      "total": 0
+    },
+    "timing": {
+      "averageResponseTime": 1191.5,
+      "totalDuration": 66677
+    },
+    "resources": {
+      "memoryUsage": {
+        "rss": 184008704,
+        "heapTotal": 116051968,
+        "heapUsed": 113000144,
+        "external": 9503511,
+        "arrayBuffers": 5218280
+      },
+      "cpuUsage": {
+        "user": 3406000,
+        "system": 546000
+      }
+    }
+  }
+}

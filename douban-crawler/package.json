@@ -1,0 +1,41 @@
+{
+  "name": "douban-crawler",
+  "version": "1.1.0",
+  "description": "豆瓣图书爬虫 - 用于课程项目",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "ts-node src/index.ts start",
+    "dev": "ts-node --transpile-only src/index.ts start",
+    "build": "tsc",
+    "stats": "ts-node src/index.ts stats",
+    "export": "ts-node src/index.ts export",
+    "clear": "ts-node src/index.ts clear",
+    "resume": "ts-node src/index.ts resume",
+    
+  
+    "test": "jest --passWithNoTests",
+    "lint": "eslint src/**/*.ts --ext .ts"
+  },
+  "keywords": ["爬虫", "豆瓣", "图书", "TypeScript"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "cheerio": "^1.0.0-rc.12",
+    "commander": "^11.1.0"
+  },
+  "devDependencies": {
+    "@types/cheerio": "^0.22.37",
+    "@types/commander": "^2.12.2",
+    "@types/node": "^20.10.0",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.3.2",
+    
+    "@types/jest": "^29.5.0",
+    "jest": "^29.5.0",
+    "ts-jest": "^29.1.0",
+    "eslint": "^8.45.0",
+    "@typescript-eslint/eslint-plugin": "^6.0.0",
+    "@typescript-eslint/parser": "^6.0.0"
+  }
+}

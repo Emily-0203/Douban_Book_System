@@ -1,0 +1,23 @@
+{
+  "crawlTime": "2025-12-21T08:04:38.295Z",
+  "duration": "25.0秒",
+  "totalBooks": 2,
+  "visitedUrls": 2,
+  "failedUrls": 0,
+  "popularTags": [
+    {
+      "tag": "编程",
+      "count": 1
+    },
+    {
+      "tag": "未分类",
+      "count": 1
+    }
+  ],
+  "ratingStats": {
+    "average": 9.4,
+    "count": 2,
+    "min": 9.3,
+    "max": 9.5
+  }
+}

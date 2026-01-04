@@ -1,0 +1,35 @@
+{
+  "crawlTime": "2025-12-21T09:31:42.600Z",
+  "duration": "154.8秒",
+  "totalBooks": 30,
+  "visitedUrls": 30,
+  "failedUrls": 0,
+  "popularTags": [
+    {
+      "tag": "未分类",
+      "count": 29
+    },
+    {
+      "tag": "计算机",
+      "count": 1
+    },
+    {
+      "tag": "编程",
+      "count": 1
+    },
+    {
+      "tag": "软件开发",
+      "count": 1
+    },
+    {
+      "tag": "计算机科学",
+      "count": 1
+    }
+  ],
+  "ratingStats": {
+    "average": 8.8,
+    "count": 22,
+    "min": 7.8,
+    "max": 9.6
+  }
+}

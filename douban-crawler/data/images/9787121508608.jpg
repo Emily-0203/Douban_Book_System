@@ -1,0 +1,7 @@
+
+<!DOCTYPE html>
+<html>
+<body style="margin:0;background:#f0f0f0;width:200px;height:300px;display:flex;align-items:center;justify-content:center;">
+  <div style="color:#666;font-family:Arial;">封面图片</div>
+</body>
+</html>

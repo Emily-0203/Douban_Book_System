@@ -1,0 +1,85 @@
+{
+  "crawlTime": "2025-12-27T12:10:36.378Z",
+  "duration": "3602.0秒",
+  "totalBooks": 500,
+  "visitedUrls": 500,
+  "failedUrls": 0,
+  "popularTags": [
+    {
+      "tag": "未分类",
+      "count": 489
+    },
+    {
+      "tag": "文学",
+      "count": 5
+    },
+    {
+      "tag": "推理",
+      "count": 3
+    },
+    {
+      "tag": "女性",
+      "count": 2
+    },
+    {
+      "tag": "科幻",
+      "count": 1
+    },
+    {
+      "tag": "中国科幻",
+      "count": 1
+    },
+    {
+      "tag": "科幻小说",
+      "count": 1
+    },
+    {
+      "tag": "短篇小说",
+      "count": 1
+    }
+  ],
+  "ratingStats": {
+    "average": 8.21,
+    "count": 486,
+    "min": 4.7,
+    "max": 9.7,
+    "distribution": {
+      "9-10": 86,
+      "8-9": 251,
+      "7-8": 119,
+      "6-7": 27,
+      "5-6": 1,
+      "0-5": 2
+    }
+  },
+  "metrics": {
+    "requests": {
+      "total": 500,
+      "success": 500,
+      "failed": 0,
+      "rateLimited": 0
+    },
+    "books": {
+      "crawled": 1000,
+      "failed": 0,
+      "total": 0
+    },
+    "timing": {
+      "averageResponseTime": 1361.194,
+      "totalDuration": 3602066
+    },
+    "resources": {
+      "memoryUsage": {
+        "rss": 174534656,
+        "heapTotal": 122081280,
+        "heapUsed": 117016056,
+        "external": 9588695,
+        "arrayBuffers": 5303464
+      },
+      "cpuUsage": {
+        "user": 36171000,
+        "system": 4437000
+      }
+    }
+  }
+}

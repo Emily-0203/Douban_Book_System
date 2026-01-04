@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-12-27T10:18:43.369Z",
+  "visitedUrls": [],
+  "failedUrls": [],
+  "totalBooksCrawled": 0,
+  "duration": 14374,
+  "metrics": {
+    "requests": {
+      "total": 1,
+      "success": 0,
+      "failed": 0,
+      "rateLimited": 0
+    },
+    "books": {
+      "crawled": 0,
+      "failed": 0,
+      "total": 0
+    },
+    "timing": {
+      "averageResponseTime": 0,
+      "totalDuration": 14391
+    },
+    "resources": {
+      "memoryUsage": {
+        "rss": 104222720,
+        "heapTotal": 43503616,
+        "heapUsed": 41050424,
+        "external": 7001588,
+        "arrayBuffers": 2725848
+      },
+      "cpuUsage": {
+        "user": 906000,
+        "system": 281000
+      }
+    }
+  }
+}
